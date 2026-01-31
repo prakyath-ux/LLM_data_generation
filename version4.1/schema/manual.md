@@ -43,8 +43,6 @@ A system that uses Large Language Models (GPT-4o) to automatically generate exec
 
 | Metric | Before | After |
 |--------|--------|-------|
-| Time per test case | 2-4 hours | 30 seconds |
-| Cost per test case | ~$100 (labor) | ~$0.06 (API) |
 | Possible coverage | 10-20 scenarios | Unlimited |
 | Human error rate | High | Validated |
 
