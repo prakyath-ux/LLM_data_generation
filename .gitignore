@@ -4,3 +4,8 @@ __pycache__/
 .env
 .env/
 .DS_Store/
+output/test_cases/
+output/logs/
+.DS_Store
+*.pyc
+__pycache__/
